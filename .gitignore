@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+.idea/
+local.properties
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.keystore
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
